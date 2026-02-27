@@ -7,7 +7,6 @@ explores its structure and statistics, and produces visualisations
 to help understand the data before building any ML models.
 """
 
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
